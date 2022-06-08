@@ -11,3 +11,6 @@ During thiis challenge, I was given the task to generate a password for a user. 
 * If the user wanted a type of character, I added the type to a seperate variable
 * Randomized the characters chosen using the Math.random function
 * Returned the finished password
+
+https://joshdunn57.github.io/Password-Generator/
+
