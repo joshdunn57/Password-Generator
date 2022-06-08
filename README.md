@@ -14,3 +14,4 @@ During thiis challenge, I was given the task to generate a password for a user. 
 
 https://joshdunn57.github.io/Password-Generator/
 
+![image](https://user-images.githubusercontent.com/105329236/172514159-c90d09d9-f72f-4205-b2cb-7e515a90b9ca.png)
