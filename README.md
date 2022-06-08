@@ -2,7 +2,7 @@
 
 ***
 
-During thiis challenge, I was given the task to generate a password for a user. The user is prompted with input, asking them how they prefer their password to look. If they do not follow the prompt guidelines, the user is asked again to genereate a stronger password.
+During this challenge, I was given the task to generate a password for a user. The user is prompted with input, asking them how they prefer their password to look. If they do not follow the prompt guidelines, the user is asked again to genereate a stronger password.
 
 ## Work Completed 
 *** 
